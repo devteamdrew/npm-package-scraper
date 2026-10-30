@@ -1,0 +1,11 @@
+{
+  "packages": [
+    "crawlee",
+    "apify"
+  ],
+  "searchQueries": [
+    "web scraper"
+  ],
+  "maxItems": 10,
+  "includeDownloads": true
+}
